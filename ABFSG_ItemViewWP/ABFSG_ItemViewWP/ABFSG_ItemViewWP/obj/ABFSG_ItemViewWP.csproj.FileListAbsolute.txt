@@ -1,0 +1,7 @@
+D:\Aditya Birla\WebParts\ABFSG_ItemViewWP\ABFSG_ItemViewWP\bin\Debug\ABFSG_ItemViewWP.dll
+D:\Aditya Birla\WebParts\ABFSG_ItemViewWP\ABFSG_ItemViewWP\bin\Debug\ABFSG_ItemViewWP.pdb
+D:\Aditya Birla\WebParts\ABFSG_ItemViewWP\ABFSG_ItemViewWP\bin\Debug\Microsoft.SharePoint.Search.dll
+D:\Aditya Birla\WebParts\ABFSG_ItemViewWP\ABFSG_ItemViewWP\bin\Debug\Microsoft.SharePoint.Search.xml
+D:\Aditya Birla\WebParts\ABFSG_ItemViewWP\ABFSG_ItemViewWP\obj\Debug\ResolveAssemblyReference.cache
+D:\Aditya Birla\WebParts\ABFSG_ItemViewWP\ABFSG_ItemViewWP\obj\Debug\ABFSG_ItemViewWP.dll
+D:\Aditya Birla\WebParts\ABFSG_ItemViewWP\ABFSG_ItemViewWP\obj\Debug\ABFSG_ItemViewWP.pdb

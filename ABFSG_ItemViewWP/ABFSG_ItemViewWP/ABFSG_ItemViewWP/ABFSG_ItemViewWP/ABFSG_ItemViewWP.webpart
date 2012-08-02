@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <!--
+      The following Guid is used as a reference to the web part class, 
+      and it will be automatically replaced with actual type name at deployment time.
+      -->
+      <type name="dd026c54-a7ba-4181-ab1b-6ebbbd333d0e" />
+      <importErrorMessage>Cannot import WebPart1 Web Part.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">WebPart1 Web Part</property>
+        <property name="Description" type="string">WebPart1 Description</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>
